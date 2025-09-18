@@ -1,0 +1,5 @@
+oauth.json
+raw_headers.txt
+.venv
+__pycache__
+spotify2ytmusic/__pycache__
